@@ -1,8 +1,8 @@
 spring:
   application:
-    name: proyecto-integrador-back-2-db
+    name: hotel_sem16
   datasource:
-    url: jdbc:mysql://localhost:3306/proyecto-integrador-back-2-db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://localhost:3306/hotel_sem16?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
     username: admin
     password: 12345
     driver-class-name: com.mysql.cj.jdbc.Driver
